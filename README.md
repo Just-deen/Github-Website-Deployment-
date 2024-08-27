@@ -4,7 +4,7 @@ Deploying your static website on Github can sometimes become a bit of a hassle. 
 
 ## (1.1) Common Issues (with Solutions) Faced When Hosting Static Websites on GitHub:
 
-• Always change the HTML filename to index.html.
+• Always change your main HTML filename to index.html. Your main HTML file can be your home page or any page that you consider to be the home or main page.
 
 • Use "root" or "docs" as needed on the following page: "Repository > Settings > Pages". Then scroll down. Check the 5th step in section 1.2 to know when to use either of them.
 
@@ -25,12 +25,12 @@ Deploying your static website on Github can sometimes become a bit of a hassle. 
 
 • Open the repository you just created and uploaded files to, go to the "Settings" of the repository, and select "Pages."
 
-• Scroll down and select the branch where your files are saved; this is usually the default branch called "main." Then proceed to select either "root" or "docs." If your files are simple and straightforward, choose "root." If you have a more complex collection of files, such as website files, source code, documentation, etc., choose "docs," as it is used for repositories with files stored in multiple folders. Save the changes.
+• Scroll down and select the branch where your files are saved; this is usually the default branch called "main." Then proceed to select either "root" or "docs." If your HTML files are not in a folder or all your files were uploaded directly and not inside a folder, choose "/root." If your HTML files are stored in a folder then change the folder's name to "docs", upload the folder(s) and other files then choose "docs" and save the changes.
 
 • After completing the previous step, your website will begin to deploy. You can track the deployment progress by going back to the repository and clicking on the "three-dot horizontal menu," also popularly known as the "meatball menu (😅)," below the green "Code" button.
 
-• After clicking the "three-dot menu," you'll see a yellow dot. Click it, and you'll be able to view the deployment progress. If the process was successful, the yellow dot will turn into a green checkmark, and you can now visit the website. If it wasn't successful, check section 1.1 to see what might have gone wrong.
+• After clicking the "three-dot menu," you'll see a yellow dot. Click it, and you'll be able to view the deployment progress. If the process was successful, the yellow dot will turn into a green checkmark. If it takes a bit too long to see the green checkmark then check "Pages" in "Settings" to see if the link ready before the green checkmark appears. If it wasn't successful, check section 1.1 to see what might have gone wrong.
 
-• To get the web link, go to the "Settings" of that particular repository, select "Pages," scroll down, and you'll see the web link.
+• To get the web link, go to "Pages", scroll down, and you'll see the web link.
 
 That's all you need to know about hosting your static website on GitHub 😇
