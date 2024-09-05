@@ -29,7 +29,7 @@ Deploying your static website on Github can sometimes become a bit of a hassle. 
 
 • After completing the previous step, your website will begin to deploy. You can track the deployment progress by going back to the repository and clicking on the "three-dot horizontal menu," also popularly known as the "meatball menu (😅)," below the green "Code" button.
 
-• After clicking the "three-dot menu," you'll see a yellow dot. Click it, and you'll be able to view the deployment progress. If the process was successful, the yellow dot will turn into a green checkmark. If it takes a bit too long to see the green checkmark then check "Pages" in "Settings" to see if the link ready before the green checkmark appears. If it wasn't successful, check section 1.1 to see what might have gone wrong.
+• After clicking the "three-dot menu," you'll see a yellow dot. Click it, and you'll be able to view the deployment progress. If the process was successful, the yellow dot will turn into a green checkmark. If it takes a too long to see the green checkmark then check "Pages" in "Settings" to see if the link ready before the green checkmark appears. If it wasn't successful, check section 1.1 to see what might have gone wrong.
 
 • To get the web link, go to "Pages", scroll down, and you'll see the web link.
 
